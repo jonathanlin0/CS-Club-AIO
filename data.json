@@ -2,81 +2,81 @@
     "info": "This is a general purpose JSON file for storing information related to keeping track of points within the Taylor High School Computer Science Club.",
     "contributors": "Jonathan Lin",
     "member_data": {
-        "Ishan Maddalwar": 130,
-        "Rizky Pratama": 125,
-        "Alex James": 115,
+        "Nathan Yee": 150,
+        "Alex James": 145,
+        "Rizky Pratama": 140,
+        "Ishan Maddalwar": 135,
+        "Andre Athari": 125,
+        "Nolan Yee": 120,
+        "Jonathan Lin": 115,
+        "Leo Cuzela": 115,
         "Abrielle Cordero": 110,
-        "Jonathan Lin": 100,
-        "Leo Cuzela": 100,
-        "Jason Lee": 95,
-        "Hayden Groh": 90,
+        "Egan Wang": 105,
+        "Ann Jacob": 100,
+        "Alejandro Laverde": 100,
+        "Jason Lee": 100,
+        "Hayden Groh": 95,
+        "Hao Zheng": 95,
+        "Ben Kim": 85,
         "Daniel Lee": 80,
-        "Nathan Yee": 130,
-        "Ann Jacob": 80,
-        "Egan Wang": 85,
-        "Alejandro Laverde": 80,
-        "Andre Athari": 105,
-        "Hao Zheng": 80,
-        "Nolan Yee": 100,
-        "Kenneth Yuan": 70,
-        "Eric Huang": 65,
-        "Mindi Tan": 65,
-        "Kenneth Ton": 60,
-        "William Cho": 60,
-        "Ben Kim": 55,
-        "Ananmaya Singh": 55,
+        "Kenneth Yuan": 75,
+        "Eric Huang": 70,
+        "Mindi Tan": 70,
         "Kostya Iginiamre": 70,
-        "Imran Hemani": 55,
-        "Junhyuk Yang": 50,
+        "Melissa Huang": 65,
+        "Kenneth Ton": 60,
+        "Ananmaya Singh": 60,
+        "Imran Hemani": 60,
+        "William Cho": 60,
+        "Emily Han": 55,
+        "Junhyuk Yang": 55,
+        "Joaquin Vives": 50,
+        "Matthew Xu": 50,
         "Erwin Manoj": 50,
         "Evy Huang": 50,
-        "Melissa Huang": 50,
         "Emma Xiao": 45,
-        "Matthew Xu": 45,
+        "Arielle Paquette": 45,
+        "Aamir Quadri": 40,
         "Jachin Choi": 35,
-        "Aamir Quadri": 35,
+        "Erdi Sadiku": 35,
+        "Saanvi Mhatre": 35,
+        "Nicholas Wall": 35,
         "Leo Lim": 35,
-        "Joaquin Vives": 30,
-        "Erdi Sadiku": 30,
-        "Saanvi Mhatre": 30,
+        "Ej Kang": 35,
+        "Clayton Xu": 30,
         "Manoj Erwin Puthoor": 30,
         "Cavin Zeng": 30,
-        "Clayton Xu": 25,
+        "Karthik Kalam": 25,
+        "Ali Husain": 25,
         "Leo CuzelaMatthew Xu": 25,
         "Kevin Phu": 25,
         "Mariam Elsharkaway": 25,
-        "Nicholas Wall": 35,
         "Qidao Lian": 25,
         "Faith Tran": 25,
         "Joseph Thang": 25,
         "Lucy Zeng": 25,
         "Matthew Kobe": 20,
-        "Karthik Kalam": 20,
-        "Arielle Paquette": 20,
-        "Ali Husain": 20,
         "Lim Mike": 20,
+        "Wonkyu Lim": 20,
+        "Abdul Ahmed": 20,
         "Alex Lau": 20,
-        "Wonkyu Lim": 15,
+        "Sergio Montes": 20,
+        "Henry Blount": 15,
         "Mark Armstrong": 15,
-        "Abdul Ahmed": 15,
         "Emma Jong": 15,
         "Groh Hayden": 15,
-        "Sergio Montes": 15,
         "Adam Chang": 15,
         "Christopher Steinhauer": 15,
+        "Mike Lim": 15,
+        "Yasmine Baba": 10,
         "Gavin Villarreal": 10,
-        "Henry Blount": 10,
         "Hailey Kuan": 10,
-        "Emily Han": 10,
-        "Mike Lim": 10,
         "Rawan Muslim": 10,
         "Muhammad Nararya": 10,
         "Ian Yuan": 5,
-        "Yasmine Baba": 5,
         "Leo Tao": 5,
         "Xiao Isabella ": 5,
         "Minh Vu": 5,
-        "Ej Kang": 20,
         "Claire Lee": 5,
         "Nasse Benjamin": 5,
         "Timothy Groh": 5,
@@ -88,7 +88,8 @@
         "George Moran": 5,
         "Aman Master": 5,
         "Violeta Viamontes": 5,
-        "Ifedolapo(Shiloh) Olotu": 5
+        "Ifedolapo(Shiloh) Olotu": 5,
+        "Sakina Ismail": 5
     },
     "point_data": {
         "September 9th, 2021 Meeting": {
@@ -124,7 +125,6 @@
                 "Wonkyu Lim",
                 "Mindi Tan",
                 "Kenneth Ton",
-                "Eunjae Kang",
                 "Henry Blount",
                 "Minh Vu",
                 "Alejandro Laverde",
@@ -133,7 +133,6 @@
                 "Nolan Yee",
                 "Mark Armstrong",
                 "Matthew Xu",
-                "Nicholas Walla",
                 "Kostya Iginiamre",
                 "Hailey Kuan",
                 "Emily Han",
@@ -142,7 +141,9 @@
                 "Emma Jong",
                 "Alex Lau",
                 "Junhyuk Yang",
-                "Jason Lee"
+                "Jason Lee",
+                "Ej Kang",
+                "Nicholas Wall"
             ]
         },
         "September 23rd, 2021 Meeting": {
@@ -162,10 +163,8 @@
                 "Saanvi Mhatre",
                 "Ej Kang",
                 "Jason Lee",
-                "Konstantin Iginiamre",
                 "Eric Huang",
                 "Imran Hemani",
-                "Rgan Wang",
                 "Ali Husain",
                 "Groh Hayden",
                 "Karthik Kalam",
@@ -188,9 +187,11 @@
                 "Alex Lau",
                 "Aamir Quadri",
                 "Erdi Sadiku",
-                "Nicholas Walla",
                 "Jachin Choi",
-                "Jason Lee"
+                "Jason Lee",
+                "Egan Wang",
+                "Kostya Iginiamre",
+                "Nicholas Wall"
             ]
         },
         "October 7, 2021 Meeting": {
@@ -202,7 +203,6 @@
                 "Clayton Xu",
                 "Nolan Yee",
                 "Cavin Zeng",
-                "Konstantin Iginiamre",
                 "Arielle Paquette",
                 "Alex James",
                 "Nathan Yee",
@@ -229,11 +229,11 @@
                 "Emma Xiao",
                 "William Cho",
                 "Manoj Erwin Puthoor",
-                "Konstantin Iginiamre",
                 "Adam Chang",
                 "Jason Lee",
                 "Lim Mike",
-                "Egan Wang"
+                "Egan Wang",
+                "Kostya Iginiamre"
             ]
         },
         "November 4, 2021 Meeting": {
@@ -241,7 +241,6 @@
             "members": [
                 "Manoj Erwin Puthoor",
                 "Egan Wang",
-                "Eunjae Kang",
                 "Cavin Zeng",
                 "Kenneth Yuan",
                 "Karthik Kalam",
@@ -269,7 +268,8 @@
                 "Imran Hemani",
                 "Ben Kim",
                 "Nathan Yee",
-                "Abrielle Cordero"
+                "Abrielle Cordero",
+                "Ej Kang"
             ]
         },
         "November 18th, 2021 Meeting": {
@@ -283,7 +283,6 @@
                 "Imran Hemani",
                 "Eric Huang",
                 "Ann Jacob",
-                "Eunjae Kang",
                 "Ben Kim",
                 "Daniel Lee",
                 "Leo Lim",
@@ -302,7 +301,8 @@
                 "Clayton Xu",
                 "Junhyuk Yang",
                 "Kenneth Yuan",
-                "Cavin Zeng"
+                "Cavin Zeng",
+                "Ej Kang"
             ]
         },
         "January 27, 2022 Meeting": {
@@ -403,7 +403,8 @@
                 "Kenneth Ton",
                 "Kenneth Yuan",
                 "Kostya Iginiamre",
-                "Leo CuzelaMatthew Xu",
+                "Leo Cuzela",
+                "Matthew Xu",
                 "Nathan Yee"
             ]
         },
@@ -413,7 +414,6 @@
                 "Abrielle Cordero",
                 "Alejandro Laverde",
                 "Alex James",
-                "Andre Atharl",
                 "Ann Jacob",
                 "Egan Wang",
                 "Evy Huang",
@@ -428,10 +428,11 @@
                 "Matthew Xu",
                 "Melissa Huang",
                 "Mindi Tan",
-                "Nathan Ye",
-                "Nolan Ye",
                 "Rizky Pratama",
-                "William Cho"
+                "William Cho",
+                "Nathan Yee",
+                "Andre Athari",
+                "Nolan Yee"
             ]
         },
         "Nov 20 Clements Competition": {
@@ -469,7 +470,7 @@
                 "Hayden Groh",
                 "Jonathan Lin",
                 "Kostya Iginiamre",
-                "Nathan Ye"
+                "Nathan Yee"
             ]
         },
         "Feb 18 THS hackathon": {
@@ -493,7 +494,11 @@
                 "Hao Zheng",
                 "Melissa Huang",
                 "Nolan Yee",
-                "Rizky Pratama"
+                "Rizky Pratama",
+                "Alex James",
+                "Arielle Paquette",
+                "Ben Kim",
+                "Emily Han"
             ]
         },
         "August 26 meeting": {
@@ -539,7 +544,6 @@
             "points": 15,
             "members": [
                 "Nolan Yee",
-                "Eunjae Kang",
                 "Egan Wang",
                 "Leo Cuzela",
                 "Alejandro Laverde",
@@ -551,7 +555,8 @@
                 "Melissa Huang",
                 "Andre Athari",
                 "Hao Zheng",
-                "Jonathan Lin"
+                "Jonathan Lin",
+                "Ej Kang"
             ]
         }
     }

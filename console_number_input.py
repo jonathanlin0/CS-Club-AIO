@@ -23,6 +23,8 @@ obj.num_input([], "question")
 
 """
 
+from time import sleep
+
 class console_number_input:
       
     # example method
@@ -47,6 +49,7 @@ class console_number_input:
 
         for i in range(0, len(list_of_options)):
             print("[" + str(i+1) + "]   " + list_of_options[i])
+            sleep(0.2)
         out = input(question + ": ")
 
         while valid_input == False:
